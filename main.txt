@@ -2,5 +2,9 @@
 This is group project
 =======
 This ig group project
+<<<<<<< HEAD
 I am Revathy Ponnusamy
 >>>>>>> origin/Revathy_P
+=======
+Im preetha J
+>>>>>>> origin/Preetha_22
