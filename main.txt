@@ -4,6 +4,7 @@ This is group project
 =======
 This ig group project
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am Revathy Ponnusamy
 >>>>>>> origin/Revathy_P
 =======
@@ -13,3 +14,6 @@ Im preetha J
 This is group project
 Im Elakkiya Tamilselvan
 >>>>>>> origin/Elakkiya
+=======
+i am deepa tejashwini
+>>>>>>> origin/Deepa_Tej
